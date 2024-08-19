@@ -1,3 +1,5 @@
+# calendar 0.2.0
+
 # calendar 0.1.0 (2024-04)
 
 * assign tz="" to zulu time strings (#48)
