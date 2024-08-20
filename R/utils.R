@@ -14,7 +14,7 @@
 #' as error messages, otherwise R's internal error-messages are thrown
 #'
 #' @param error_message character. An error message, supports formatting with
-#'   the {cli} package.
+#'   the cli package.
 #' @seealso [stopifnot()], [cli::cli_abort()], [tryCatch()]
 #' @keywords internal
 #'

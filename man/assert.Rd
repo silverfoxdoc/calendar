@@ -11,7 +11,7 @@ assert(..., error_message = NULL)
 as error messages, otherwise R's internal error-messages are thrown}
 
 \item{error_message}{character. An error message, supports formatting with
-the {cli} package.}
+the cli package.}
 }
 \value{
 \link{NULL} if all statements in ... are \link{TRUE}
